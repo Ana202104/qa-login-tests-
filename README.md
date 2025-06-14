@@ -10,7 +10,7 @@ The goal is to simulate real-life QA manual testing by creating test cases, chec
 
 - [✅ Test Cases (Excel)](QA_Login_TestCases_AnaKaroliny.xlsx)
 - [🐞 Bug Report (DOCX)](Bug_Report_Login.AnaKaroliny)
-- [📋 Checklist (Markdown)](Login_QA_Checklist-Ana Karoliny)
+- [📋 Checklist (Markdown)](Login_QA_Checklist.AnaKaroliny)
 
 ## 🔍 Test Scenarios
 
